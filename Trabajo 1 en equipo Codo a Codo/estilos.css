@@ -1,0 +1,42 @@
+h1 {
+	text-align: center;
+	color: rgb(238, 83, 11);
+}
+
+h2 {
+	text-align: center;
+	color: rgb(56, 238, 11);
+}
+
+h3 {
+	text-align: center;
+	color: rgb(238, 204, 11);
+	font-style: oblique;
+}
+
+nav {
+	text-align: center;
+}
+
+
+span {
+	text-align: center;
+	background-color: chocolate;
+	border: 1px solid;
+}
+
+.fancy {
+	font-weight: bold;
+	text-shadow: 4px 4px 3px rgb(212, 119, 255);
+}
+
+table {
+	background-color: aliceblue;
+	border-collapse: separate;
+	border: red 5px solid;
+	margin: 15px;
+	padding: 15px;
+  }
+  td {
+	border: orange 5px solid;
+  }
